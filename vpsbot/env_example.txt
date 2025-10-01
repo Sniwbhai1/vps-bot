@@ -1,0 +1,7 @@
+# Discord Bot Configuration
+DISCORD_TOKEN=MTQyMjkxMzA4NzQyMTI4NDM5NA.GnqvTX.UlAixbYt4T4A8478bpWba9WP9ThKQQZlezYGvg
+DISCORD_GUILD_ID=1403791494938361897
+
+# VPS Configuration (Paths for VPS setup)
+UBUNTU_ISO_PATH=/home/sniwnode/vpsbot/ubuntu-24.04.3-live-server-amd64.iso
+CONTAINER_BASE_PATH=/var/lib/vpsbot/containers

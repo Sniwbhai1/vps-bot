@@ -1,0 +1,6 @@
+discord.py==2.3.2
+docker==6.1.3
+psutil==5.9.6
+asyncio
+aiofiles==23.2.1
+python-dotenv==1.0.0
